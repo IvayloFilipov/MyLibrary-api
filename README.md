@@ -32,6 +32,14 @@ The database schema consists of the following main entities:
 * Users
 * UserTokens
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Author
+[IvayloFilipov](https://github.com/IvayloFilipov/BMS-BuildingManagementSystem)
+
+- LinkedIn: [Ivaylo Filipov](https://www.linkedin.com/in/ivaylo-filipov-44149420b/)
+
 ### **See the Database schema below:**
 
 <p align="center">
@@ -56,3 +64,21 @@ This application is designed by using the **main** technologies below:
 ## **Tools Used**
    1) **[MS Visual Studio 2022](https://code.visualstudio.com/)**
    2) **[MS SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)**
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Authors
+[IvayloFilipov](https://github.com/IvayloFilipov/BMS-BuildingManagementSystem)
+[Zornitsa Marudinska]
+[Plamen Angelov]
+[Dimitar Lazarov]
+
+- LinkedIn: [Ivaylo Filipov](https://www.linkedin.com/in/ivaylo-filipov-44149420b/)
+
+
+------------
+
+#### This is a team work project. The application has been created solely for educational purpose.
+
+------------
