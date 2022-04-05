@@ -35,7 +35,7 @@ The database schema consists of the following main entities:
 ### **See the Database schema below:**
 
 <p align="center">
-  <img width="1000" src="C:\Users\User\MyLibrary\MyLibrary-api\RilaLibrary" alt="Diagram"> 
+  <img width="1000" src="C:\Users\User\MyLibrary\MyLibrary-api\RilaLibrary\db-MyLibrary.png" alt="Diagram"> 
 </p>
 
 ## **Backend**
