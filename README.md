@@ -53,7 +53,7 @@ This application is designed by using the **main** technologies below:
    3) **[Entity Framework Core](https://en.wikipedia.org/wiki/Entity_Framework?wprov=srpw1_0)**
    4) **[MS SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)**
    5) **[nUnit](https://nunit.org/)**
-   6) **[Sendgrid API](https://sendgrid.com/docs/API_Reference/api_v3.html)**
+   6) **[SendGrid](https://sendgrid.com/docs/API_Reference/api_v3.html)**
    7) **[Azure](https://portal.azure.com/#home)**
    
 ## **Tools Used**
