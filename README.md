@@ -40,7 +40,6 @@ The database schema consists of the following main entities:
 
 ## **Backend**
 The web project contains:
-* One Administration area
-* 30+ service methods
+* 100+ service methods
 * 7 controllers
-* 20+ views
+* 26 repository methods
