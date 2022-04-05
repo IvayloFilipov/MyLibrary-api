@@ -166,7 +166,7 @@ namespace Tests.ServicesTests
             var userDto = new ResetPasswordDto
             {
                 Email = "ivanov@gmail.com",
-                Token = "Q2ZESjhDb0pldGlCRi9kTGo0VGZ1Y3pBQTNpUUk1b0dRenZ4RmdlODhKOVFxNTF4MWZPUWxsMWcyNTBjaUlqYUdOVDd6blB6OGhSckZqQWFvWFRqVVQwZldVV3JQVEpwMVlFVmVHWVQxMUxtcldCRFZyeHk4NGRwSEtQbEU1SVZYeG9kd0l1UHRuL1VZc1lPZDFVd0t5elhvaVFQRldzTUtFNUQ0MnRua3NKQ3RleDI0dWIzTXlERDJyUmxKTkRqclJyN3dQbnlydUljMnBPOW9pamFCb2k5cTY0T3ZNQ1RmUkZUN1F5anVPOXVHTGNo",
+                Token = "tokenHere",
                 Password = "NewPassword",
                 ConfirmPassword = "NewPassword"
             };
