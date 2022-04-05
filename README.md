@@ -49,9 +49,12 @@ The web project contains:
 This application is designed by using the **main** technologies below:
 
    1) **[C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))**
-   2) **[ASP.NET Core 6](https://en.wikipedia.org/wiki/ASP.NET_Core)**
+   2) **[ASP.NET Core 6 Web API](https://en.wikipedia.org/wiki/ASP.NET_Core)**
    3) **[Entity Framework Core](https://en.wikipedia.org/wiki/Entity_Framework?wprov=srpw1_0)**
    4) **[MS SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)**
+   5) **[nUnit](https://nunit.org/)**
+   6) **[Sendgrid API](https://sendgrid.com/docs/API_Reference/api_v3.html)**
+   7) **[Azure](https://portal.azure.com/#home)**
    
 ## **Tools Used**
    1) **[MS Visual Studio 2022](https://code.visualstudio.com/)**
