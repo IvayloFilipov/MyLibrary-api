@@ -32,18 +32,10 @@ The database schema consists of the following main entities:
 * Users
 * UserTokens
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Author
-[IvayloFilipov](https://github.com/IvayloFilipov/BMS-BuildingManagementSystem)
-
-- LinkedIn: [Ivaylo Filipov](https://www.linkedin.com/in/ivaylo-filipov-44149420b/)
-
 ### **See the Database schema below:**
 
 <p align="center">
-  <img width="1000" src="C:\Users\User\MyLibrary\MyLibrary-api\RilaLibrary\db-MyLibrary.png" alt="Diagram"> 
+  <img width="1000" src="..\MyLibrary\MyLibrary-api\RilaLibrary\db-MyLibrary.png" alt="Diagram"> 
 </p>
 
 ## **Backend**
