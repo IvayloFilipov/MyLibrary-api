@@ -58,7 +58,7 @@ This application is designed by using the **main** technologies below:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
-[IvayloFilipov](https://github.com/IvayloFilipov/BMS-BuildingManagementSystem),
+[IvayloFilipov](https://github.com/IvayloFilipov/MyLibrary-api),
 Zornitsa Marudinska,
 Plamen Angelov,
 Dimitar Lazarov
