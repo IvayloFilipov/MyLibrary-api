@@ -32,12 +32,6 @@ The database schema consists of the following main entities:
 * Users
 * UserTokens
 
-### **See the Database schema below:**
-
-<p align="center">
-  <img width="1000" src="..\MyLibrary\MyLibrary-api\RilaLibrary\db-MyLibrary.png" alt="Diagram"> 
-</p>
-
 ## **Backend**
 The web project contains:
 * 100+ service methods
