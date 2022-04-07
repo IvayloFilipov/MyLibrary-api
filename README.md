@@ -31,6 +31,12 @@ The database schema consists of the following main entities:
 * UserRoles
 * Users
 * UserTokens
+* 
+### **See the Database schema below:**
+
+<p align="center">
+  <img width="1000" src="Web/BuildingManagementSystem.Web/wwwroot/BMS.dbDiagram.png" alt="Diagram"> 
+</p>
 
 ## **Backend**
 The web project contains:
