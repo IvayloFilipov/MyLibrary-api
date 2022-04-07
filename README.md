@@ -34,9 +34,11 @@ The database schema consists of the following main entities:
 * 
 ### **See the Database schema below:**
 
+
 <p align="center">
   <img width="1000" src="https://github.com/IvayloFilipov/MyLibrary-api/blob/main/RilaLibrary/db-MyLibrary.png" alt="Diagram"> 
 </p>
+
 
 ## **Backend**
 The web project contains:
